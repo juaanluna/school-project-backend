@@ -26,3 +26,10 @@ O que foi aplicado nesse projeto?
 * **Crud de escolas**
 * **Crud de turmas**
 * **Crud de alunos**
+
+
+### Estrutura
+Relações entre tabelas:
+
+* 1 ESCOLA possui N TURMAS
+* 1 TURMA possui N ALUNOS
