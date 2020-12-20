@@ -6,6 +6,8 @@ Sistema para gerenciar escola, turmas e alunos.
 É necessária a configuração do projeto antes de inicia-lo.
 
 * **Passo 1:** Configurar .env *(Usar [.env.example](https://github.com/juaanluna/school-project-backend/blob/master/.env.example) como exemplo)*
+* **Passo 2:** Criar uma tabela em seu banco de dados com o mesmo nome definido no .env
+* **Passo 3:** npm run dev *(Para iniciar o backend do projeto e rodar as migrations, assim criando as tabelas no banco de dados)*
 
 ### Prerequisites
 
