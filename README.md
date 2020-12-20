@@ -1,11 +1,11 @@
-# school-project-backend
-# Project Title
+# Projeto escola
 
-One Paragraph of project description goes here
+Sistema para gerenciar escola, turmas e alunos.
 
-## Getting Started
+## Começando
+É necessária a configuração do projeto antes de inicia-lo.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* **Passo 1:**Configurar .env (*Usar [.env.example](https://github.com/juaanluna/school-project-backend/blob/master/.env.example) como exemplo*)
 
 ### Prerequisites
 
