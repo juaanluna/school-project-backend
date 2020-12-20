@@ -15,9 +15,6 @@ npm run dev
 ### Testar rotas
 
 O arquivo [documentação](https://github.com/juaanluna/school-project-backend/blob/master/documentation/viaMaker.postman_collection.json) é um JSON com todas as rotas para serem utilizadas no postman
-```
-Give examples
-```
 
 ### Aplicação
 O que foi aplicado nesse projeto?
