@@ -5,7 +5,7 @@ Sistema para gerenciar escola, turmas e alunos.
 ## Começando
 É necessária a configuração do projeto antes de inicia-lo.
 
-* **Passo 1:**Configurar .env (*Usar [.env.example](https://github.com/juaanluna/school-project-backend/blob/master/.env.example) como exemplo*)
+* **Passo 1:** Configurar .env *(Usar [.env.example](https://github.com/juaanluna/school-project-backend/blob/master/.env.example) como exemplo)*
 
 ### Prerequisites
 
