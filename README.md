@@ -33,6 +33,12 @@ O que foi aplicado nesse projeto?
 
 
 ### Estrutura
+
+* Crud de usuários
+* Crud de escolas
+* Crud de turmas
+* Crud de alunos
+
 Relações entre tabelas:
 
 * 1 ESCOLA possui N TURMAS
