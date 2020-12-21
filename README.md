@@ -23,6 +23,7 @@ O arquivo [documentação](https://github.com/juaanluna/school-project-backend/b
 ### Aplicação
 O que foi aplicado nesse projeto?
 
+* **ORM - Sequelize***
 * **Autenticação**
 * **Recuperação de senha**
 * **Envio de e-mail com Nodemailer**
